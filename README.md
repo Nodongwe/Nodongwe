@@ -33,8 +33,11 @@ I love uncovering patterns in data that drive real business decisions.
 ## 📂 Projects
 
  Python.*
+🟢  ### 📊 [Customer Churn Analysis](https://github.com/Nodongwe/customer-churn-analysis)
+A beginner-friendly Python project exploring customer churn patterns using a recent telecom dataset. Includes data loading, cleaning, basic visualization, and insights using pandas, matplotlib, and seaborn.
 
-🟢  projects coming soon...
+
+🟢  more projects coming soon...
 
 ---
 
