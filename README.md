@@ -4,6 +4,7 @@
 📍 George, South Africa  
 📊 From customer service to data-driven insights
 
+---
 
 ## 🔍 About Me
 
@@ -27,6 +28,7 @@ I love uncovering patterns in data that drive real business decisions.
 - **Certifications**:
   - Google Data Analytics Professional Certificate
   - RE5 + NQF Level 4 (Short-Term Insurance)
+---
 
 ## 📂 Projects
 
@@ -34,12 +36,14 @@ I love uncovering patterns in data that drive real business decisions.
 
 🟢  projects coming soon...
 
+---
 
 ## 📚 I'm Currently Learning
 - Deploying ML models to the cloud
 - Writing Python scripts for real-world data problems
 - Building a BI dashboard from scratch
 
+---
 
 ## 📫 Let's Connect
 - Email: Nodongwe@outlook.com
