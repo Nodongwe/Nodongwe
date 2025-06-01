@@ -34,9 +34,11 @@ I love uncovering patterns in data that drive real business decisions.
 
  Python.*
  
- 🟢  ### 📊 [Customer Churn Analysis](https://github.com/Nodongwe/customer-churn-analysis)
+ 🟢 📊 [Customer Churn Analysis](https://github.com/Nodongwe/customer-churn-analysis)
 A beginner-friendly Python project exploring customer churn patterns using a recent telecom dataset. Includes data loading, cleaning, basic visualization, and insights using pandas, matplotlib, and seaborn.
 
+🟢  [Netflix Data Analysis](https://github.com/YourUsername/netflix-data-analysis)
+Analyze Netflix's content trends using Python and data visualization — explore top genres, content ratings, countries, and platform growth over time.
 
 🟢  more projects coming soon...
 
