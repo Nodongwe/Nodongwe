@@ -8,7 +8,7 @@
 
 ## 🔍 About Me
 
-I'm a certified financial services professional with over two years of experience in the short-term insurance industry. My passion for understanding customer behavior and improving retention strategies has led me to explore the world of **data analytics**, **Python programming**, and **business intelligence**.
+I'm a certified financial services professional with over two years of experience in the short-term insurance/financial services industry. My passion for understanding customer behavior and improving retention strategies has led me to explore the world of **data analytics**, **Python programming**, and **business intelligence**.
 
 Currently, I'm building my skills in:
 - Python for data analysis
