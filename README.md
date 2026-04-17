@@ -58,17 +58,26 @@ Financial Services, Customer Retention, Risk & Behaviour Analysis, Sustainabilit
 
 ## 📂 Projects
 
- Python.*
- 
- 🟢 📊 [Customer Churn Analysis](https://github.com/Nodongwe/customer-churn-analysis)
-A beginner-friendly Python project exploring customer churn patterns using a recent telecom dataset. Includes data loading, cleaning, basic visualization, and insights using pandas, matplotlib, and seaborn.
+### 🟢 📊 Customer Churn Analysis (Python)
+A data analysis project exploring customer churn behaviour using a telecom dataset.  
+Performed data cleaning, exploratory analysis, and visualization to identify key drivers of churn such as contract type, tenure, and customer value.
 
-🟢  [Netflix Data Analysis](https://github.com/YourUsername/netflix-data-analysis)
-Analyze Netflix's content trends using Python and data visualization — explore top genres, content ratings, countries, and platform growth over time.
+**Tools Used:** Python (Pandas, Matplotlib, Seaborn)  
+**Key Focus:** Customer retention, churn risk identification, business insights  
 
-🟢  more projects coming soon...
 
----
+### 🟢 🎬 Netflix Data Analysis (Python)
+Analyzed Netflix content trends to uncover patterns in genres, ratings, geographic distribution, and platform growth over time.  
+
+**Tools Used:** Python (Pandas, Matplotlib, Seaborn)  
+**Key Focus:** Content trends, data storytelling, exploratory data analysis  
+
+
+### 🟡 🚧 Upcoming Projects
+- Financial behaviour & risk analysis  
+- Climate & sustainability data projects (carbon markets, biodiversity insights)  
+- Interactive dashboards using Power BI & Looker Studio  
+
 
 ## 📚 I'm Currently Learning
 - Deploying ML models to the cloud
