@@ -12,6 +12,8 @@ I am a financial services professional with over two years of experience in shor
 
 I am currently transitioning into data analytics, where I combine my industry experience with technical skills to uncover insights that support better decision-making. My work focuses on real-world datasets, particularly in financial services and customer analytics.
 
+With a background in Nature Conservation, I also have a strong interest in the intersection of data, sustainability, and environmental impact. I am particularly interested in how data can be used to support responsible investment, climate-related insights, and conservation-focused decision-making.
+
 I am actively building projects using:
 
 Python (Pandas, Matplotlib, Seaborn) for data analysis
@@ -23,17 +25,10 @@ Some of my key interests include:
 
 Customer churn and retention analysis
 Financial behaviour and risk insights
+Climate and sustainability analytics
 Data-driven decision-making in banking and insurance
 
 I am continuously developing my skills and building a portfolio that reflects practical, real-world problem solving.
-
-Currently, I'm building my skills in:
-- Python for data analysis
-- Google Cloud (BigQuery & SQL)
-- Business dashboards using Power BI
-- Cloud-based analytics
-
-I love uncovering patterns in data that drive real business decisions.
 
 ---
 
