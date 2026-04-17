@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Lusanda Nodongwe
 
 🎯 **Aspiring Business Intelligence & Data Analyst**  
-📍 George, South Africa  
+📍 Cape Town, South Africa  
 📊 From customer service to data-driven insights
 
 ---
