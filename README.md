@@ -80,10 +80,11 @@ Analyzed Netflix content trends to uncover patterns in genres, ratings, geograph
 
 
 ## 📚 I'm Currently Learning
-- Deploying ML models to the cloud
-- Writing Python scripts for real-world data problems
-- Building a BI dashboard from scratch
 
+- Strengthening SQL skills for data querying and analysis  
+- Improving Python for real-world data analysis projects  
+- Building interactive dashboards using Power BI and Looker Studio  
+- Developing end-to-end data projects (from data cleaning to insights)  
 ---
 
 ## 📫 Let's Connect
