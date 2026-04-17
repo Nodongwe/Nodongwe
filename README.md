@@ -39,6 +39,7 @@ I am continuously developing my skills and building a portfolio that reflects pr
 - **Business Intelligence**: Power BI, Excel (Advanced)
 - **Certifications**:
   - Google Data Analytics Professional Certificate
+  - Microsoft Power BI Desktop for Business Intelligence
   - RE5 + NQF Level 4 (Short-Term Insurance)
 ---
 
