@@ -3,7 +3,9 @@
 🎯Aspiring Data Analyst | Python, SQL, Power BI & Looker Studio  
 Building data-driven solutions in finance, customer analytics, and climate risk  
 Focused on turning data into actionable business insights
+
 📍 Cape Town, South Africa  
+
 📊 From customer service to data-driven insights
 
 ---
