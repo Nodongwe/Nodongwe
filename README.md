@@ -1,6 +1,8 @@
 # 👋 Hi there, I'm Lusanda Nodongwe
 
-🎯 **Aspiring Business Intelligence & Data Analyst**  
+🎯Aspiring Data Analyst | Python, SQL, Power BI & Looker Studio  
+Building data-driven solutions in finance, customer analytics, and climate risk  
+Focused on turning data into actionable business insights
 📍 Cape Town, South Africa  
 📊 From customer service to data-driven insights
 
@@ -57,6 +59,16 @@ Financial Services, Customer Retention, Risk & Behaviour Analysis, Sustainabilit
 ---
 
 ## 📂 Projects
+
+### 📌 Customer Churn Analysis
+- Built a machine learning model to predict churn (~81% accuracy)
+- Developed customer segmentation for retention strategies  
+👉 [View Project](https://github.com/Nodongwe/telco-customer-churn-analysis)
+
+### 🌍 Climate Finance & Risk Analysis
+- Analysed climate-related financial data in South Africa  
+- Built dashboard to visualise investment trends  
+👉 [View Project](https://github.com/Nodongwe)
 
 ### 🟢 📊 Customer Churn Analysis (Python)
 A data analysis project exploring customer churn behaviour using a telecom dataset.  
