@@ -8,7 +8,24 @@
 
 ## 🔍 About Me
 
-I'm a certified financial services professional with over two years of experience in the short-term insurance/financial services industry. My passion for understanding customer behavior and improving retention strategies has led me to explore the world of **data analytics**, **Python programming**, and **business intelligence**.
+I am a financial services professional with over two years of experience in short-term insurance and customer retention, with a strong focus on understanding customer behavior and driving business outcomes.
+
+I am currently transitioning into data analytics, where I combine my industry experience with technical skills to uncover insights that support better decision-making. My work focuses on real-world datasets, particularly in financial services and customer analytics.
+
+I am actively building projects using:
+
+Python (Pandas, Matplotlib, Seaborn) for data analysis
+SQL (PostgreSQL & BigQuery) for data querying and transformation
+Power BI & Looker Studio for interactive dashboards
+Excel for data exploration and reporting
+
+Some of my key interests include:
+
+Customer churn and retention analysis
+Financial behaviour and risk insights
+Data-driven decision-making in banking and insurance
+
+I am continuously developing my skills and building a portfolio that reflects practical, real-world problem solving.
 
 Currently, I'm building my skills in:
 - Python for data analysis
