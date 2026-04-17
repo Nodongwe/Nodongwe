@@ -34,13 +34,26 @@ I am continuously developing my skills and building a portfolio that reflects pr
 
 ## 🛠️ Tools & Technologies
 
-- **Languages**: Python, SQL
-- **Data**: Pandas, Matplotlib, Google Cloud BigQuery
-- **Business Intelligence**: Power BI, Excel (Advanced)
-- **Certifications**:
-  - Google Data Analytics Professional Certificate
-  - Microsoft Power BI Desktop for Business Intelligence
-  - RE5 + NQF Level 4 (Short-Term Insurance)
+**Languages & Querying:**  
+Python, SQL  
+
+**Data Analysis & Libraries:**  
+Pandas, Matplotlib, Seaborn  
+
+**Data Platforms & Cloud:**  
+Google Cloud BigQuery  
+
+**Business Intelligence & Reporting:**  
+Power BI, Looker Studio, Microsoft Excel (Advanced)  
+
+**Domain Knowledge:**  
+Financial Services, Customer Retention, Risk & Behaviour Analysis, Sustainability & Conservation  
+
+**Certifications:**  
+- Google Data Analytics Professional Certificate  
+- Microsoft Power BI Desktop for Business Intelligence  
+- RE5 Certification (Financial Services)  
+- NQF Level 4: Short-Term Insurance  
 ---
 
 ## 📂 Projects
